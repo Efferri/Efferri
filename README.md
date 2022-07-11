@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Efferri
 - 👀 I’m interested in nerd shit
-- 🌱 I’m currently learning Python (so useful, I know)
+- 🌱 I’m currently learning Python + Greenfoot (so useful, I know)
 - 💞️ I’m looking to collaborate on ur step-bro
 - 📫 How to reach me: Discord: Efferri#0694
 
